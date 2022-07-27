@@ -1,0 +1,14 @@
+{
+"skip_files": [
+    "lib/backend/application.ex",
+    "lib/backend_web",
+    "lib/backend_web/telemetry.ex",
+    "lib/backend_web/views/error_helpers.ex",
+    "lib/support/chanel_case.ex",
+    "lib/support/data_case.ex"
+
+],
+"treat_no_relevant_lines_as_covered": true,
+"minimum_coverage": 95  
+    
+}
