@@ -56,7 +56,7 @@ defmodule Backend.MixProject do
       {:telemetry_poller, "~> 1.0"},
       {:gettext, "~> 0.18"},
       {:jason, "~> 1.2"},
-      {:credo, "~> 1.5", only:[:dev, :test], runtime: false},
+      {:credo, "~> 1.4", only:[:dev, :test], runtime: false},
       {:excoveralls, "~> 0.10", only: :test},
       {:mix_test_watch, "~> 1.0", only: [:dev, :test]},
       {:plug_cowboy, "~> 2.5"}
