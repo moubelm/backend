@@ -22,7 +22,11 @@ git defmodule Backend.MixProject do
   end
 
   # Configuration for the OTP application.
+<<<<<<< HEAD
   #  34123.
+=======
+  # Esta documentación es otra 123.
+>>>>>>> ramadificil
   # Type `mix help compile.app` for more information.
   def application do
     [
